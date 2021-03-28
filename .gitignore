@@ -1,0 +1,30 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/web
+# Edit at https://www.toptal.com/developers/gitignore?templates=web
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.htm
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
+
+# End of https://www.toptal.com/developers/gitignore/api/web
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+virt
+
+#IDE files
+.vscode
